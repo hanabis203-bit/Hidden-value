@@ -151,3 +151,13 @@ python test_progress.py
 ```
 
 The **16 test groups** cover sale thresholds and ties, refunds, pass rules, Normal and Rage outcomes, history limits, independent resets, save compatibility, achievement and title conditions, menu routes and colour formatting. Tests use temporary folders and leave personal saves unchanged.
+
+## AI Usage Declaration
+
+In accordance with the University of Sydney's academic integrity policy on generative AI, I declare the following use of AI tools (chatgpt6.1 sol) in this assignment:
+
+AI assisted in forming the overall program structure and designing parts of the terminal interface code.
+
+I used AI to help  writing the personal profile, achievement, and title storage/archive code, as well as test scripts.
+
+AI assisted in checking code syntax errors and writing  part of the README document.
