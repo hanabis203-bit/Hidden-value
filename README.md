@@ -28,7 +28,7 @@ Each bidder starts with **6000 coins**. A warehouse contains **eight hidden item
 
 ## How to start
 
-Use **Python 3**; the project has been tested with Python **3.12.14**. No extra packages are required.
+Use **Python 3**; the project has been tested under Ed environment and Python **3.12.14**. No extra packages are required.
 
 Keep all seven runtime Python files in one folder. Open a terminal in that folder and run:
 
