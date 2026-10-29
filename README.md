@@ -42,7 +42,7 @@ On systems that use the `python3` command:
 python3 main.py
 ```
 
-Use an interactive terminal at least **62 columns wide** for the coloured tables and live countdown. Rage Mode requires interactive terminal input. Redirected output is plain text.
+
 
 ## How to play
 
